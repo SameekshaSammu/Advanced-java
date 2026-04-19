@@ -22,7 +22,9 @@ exp1c o/p p9 : https://github.com/user-attachments/assets/ebb8d828-e4a5-4f5c-b55
 
 exp1c o/p p10 : https://github.com/user-attachments/assets/edeac3aa-095b-409b-80ed-39eff1e6ab1a
 
-exp2a o/p StringHandlingDemo :  https://github.com/user-attachments/assets/cdbb2659-23aa-40a1-97a1-9a7a1186cc29,https://github.com/user-attachments/assets/d86858a8-c201-4a8e-804e-d013e324a206
+exp2a o/p StringHandlingDemo :  https://github.com/user-attachments/assets/cdbb2659-23aa-40a1-97a1-9a7a1186cc29
+
+exp2a 2o/p StringHandlingDemo : https://github.com/user-attachments/assets/d86858a8-c201-4a8e-804e-d013e324a206
 
 exp2b o/p PerformanceTest : https://github.com/user-attachments/assets/6fc6e3f9-958f-4e25-ad39-cdae98b5b908
 
