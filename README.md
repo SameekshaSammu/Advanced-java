@@ -28,7 +28,9 @@ exp2a 2o/p StringHandlingDemo : https://github.com/user-attachments/assets/d8685
 
 exp2b o/p PerformanceTest : https://github.com/user-attachments/assets/6fc6e3f9-958f-4e25-ad39-cdae98b5b908
 
-exp3a o/p StringHandlingDemo : https://github.com/user-attachments/assets/1fff83bf-8726-416f-ac85-28a81bcfd7ef,https://github.com/user-attachments/assets/e10d7d0f-d72b-4ba3-9f02-29e62b10da34
+exp3a o/p StringHandlingDemo : https://github.com/user-attachments/assets/1fff83bf-8726-416f-ac85-28a81bcfd7ef
+
+exp3a 2o/p StringHandlingDemo : https://github.com/user-attachments/assets/e10d7d0f-d72b-4ba3-9f02-29e62b10da34
 
 exp3b and 3c o/p StringBuildingFunctions : https://github.com/user-attachments/assets/66fc42c9-4911-4a76-ac4d-1c5064955fdb
 
